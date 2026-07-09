@@ -2,8 +2,8 @@
 	"compilerOptions": {
 		"noUncheckedSideEffectImports": false,
 		"strict": true,
-		"module": "Node16",
-		"moduleResolution": "Node16",
+		"module": "commonjs",
+		"moduleResolution": "node",
 		"target": "es2021",
 		"lib": ["es2021", "es2022.error", "es2022.object", "dom"],
 		"removeComments": true,
