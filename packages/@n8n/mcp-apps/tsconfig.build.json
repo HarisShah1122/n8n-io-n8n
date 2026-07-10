@@ -4,6 +4,7 @@
 		"composite": true,
 		"module": "CommonJS",
 		"moduleResolution": "node",
+		"ignoreDeprecations": "6.0",
 		"noEmit": false,
 		"rootDir": "src",
 		"outDir": "dist"
